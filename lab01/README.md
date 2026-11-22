@@ -29,4 +29,4 @@ _Write 2–3 sentences in your own words: what happens between typing a URL and 
 
 _Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
 
-I used Copilot to explain "what happens between typing a URL and seeing the page".
+I used Copilot to explain "what happens between typing a URL and seeing the page."
